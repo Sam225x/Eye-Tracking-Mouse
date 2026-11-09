@@ -1,1 +1,7 @@
-/* source file available at /mnt/data/etm_unpack/.gitignore */
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+*.log
